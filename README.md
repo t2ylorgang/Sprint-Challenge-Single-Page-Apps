@@ -1,3 +1,5 @@
+Taylor Olson 3.22.20
+
 # Sprint Challenge: Single Page Applications
 
 ## Rick & Morty Edition
@@ -25,23 +27,25 @@ In this challenge, you will create a Single Page Application complete with Clien
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
-- [ ]  Explain benefit(s) using `client-side routing`?
+- [x]  Explain benefit(s) using `client-side routing`?
 
 > Answer:
+
+--> Client-Side Routing allows us to handle routing internally with the Java Script that is already on the web page. A benefit of this is that the web page does not have to refresh! We get the data we need when we ask for it. Instead of retrieving a new resource via a new url, JavaScript prevents this and we get the "resource(state)" that is already rendered out and available. The data is just there for us when we use client-side routing.
 
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
 
-- [ ]  Create a forked copy of this project.
-- [ ]  Add TL as collaborator on GitHub.
-- [ ]  Clone your OWN version of Repo (Not Lambda's by mistake!).
-- [ ]  Create a new Branch on the clone: `git checkout -b <firstName-lastName>`.
-- [ ]  Implement the project on this branch, committing changes regularly.
-- [ ]  Push commits: `git push origin <firstName-lastName>`.
-- [ ]  **LOOK** at your project directory and notice it's just a plain ol' React App that we've built using `create-react-app`.
-- [ ]  **RUN** `npm install` to retrieve the client-side dependencies.
-- [ ]  **RUN** `npm start` to fire up your React application.
+- [x]  Create a forked copy of this project.
+- [x]  Add TL as collaborator on GitHub.
+- [x]  Clone your OWN version of Repo (Not Lambda's by mistake!).
+- [x]  Create a new Branch on the clone: `git checkout -b <firstName-lastName>`.
+- [x]  Implement the project on this branch, committing changes regularly.
+- [x]  Push commits: `git push origin <firstName-lastName>`.
+- [x]  **LOOK** at your project directory and notice it's just a plain ol' React App that we've built using `create-react-app`.
+- [x]  **RUN** `npm install` to retrieve the client-side dependencies.
+- [x]  **RUN** `npm start` to fire up your React application.
 
 ### Exceeded rate limits?
 
